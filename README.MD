@@ -1,0 +1,1 @@
+Individual project that detects brain tumors
